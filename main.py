@@ -6,3 +6,4 @@ while (a1 != 0) and (a2 != 0):
     else:
         a2 %= a1
 print(a1 + a2)
+print("a")
